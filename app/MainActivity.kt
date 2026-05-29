@@ -14,6 +14,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.androidlab.ui.navigation.BlogNavHost
 import com.example.androidlab.ui.theme.AndroidLabTheme
 
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -25,4 +26,3 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
